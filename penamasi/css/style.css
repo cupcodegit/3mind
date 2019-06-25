@@ -141,7 +141,7 @@
  }
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
  h2,h3,h4,h5,h6 {color: #22314A;font-weight: normal;}
- h1 {font-size: 70px;line-height: 85px;font-weight: 700;}
+ h1 {font-size: 64px;line-height: 64px;font-weight: 550;}
  h2 {font-size: 40px; font-weight: 600;}
  h3 {font-size: 28px;}
  h4 {font-size: 22px;}
@@ -498,7 +498,7 @@ body .theme-button {
 #theme-main-banner .camera_prev:before {content: '';}
 #theme-main-banner .camera_next:before {content: '';}
 #theme-main-banner .camera_caption p {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 35px;
   color: #fff;
   padding: 25px 0 30px 0;
