@@ -107,8 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="float-right">
 								<ul class="right-widget clearfix">
 									<li><a href="mailto:atendimento@penamasi.com.br"><i class="fa fa-envelope" aria-hidden="true"></i> atendimento@penamasi.com.br</a></li>
-									<li><a href="whatsapp://send?text=Olá!&phone=+5519991780117"><i class="fa fa-whatsapp" aria-hidden="true"></i> (19) 99178-0117</a></li>
-									<li class="quote"><a href="tel:+5519991780117">(19) 9 9178-0117</a></li>
+									<li class="quote"><a href="contato.php">Solicitar contato</a></li>
 								</ul>
 							</div>
 						</div> <!-- /.clearfix -->
