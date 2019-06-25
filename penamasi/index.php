@@ -45,50 +45,20 @@
 			<div class="our-service-two">
 				<div class="container">
 					<div class="theme-title text-center">
-						<h2>Áreas de Atuação</h2>
+						<h2>Especialidades</h2>
 						<p>Entenda nossas especialidades</p>
 					</div> <!-- /.theme-title -->
 					<div class="row">
-						<div class="col-lg-4 col-sm-6">
+						<div class="col-lg-6 col-sm-6">
 							<div class="single-service">
-								<i class="fa fa-user" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito das Sucessões</a></h5>
-								<p class="text-justify">Sucessão empresarial, sucessão familiar, sucessão patrimonial, partilha de bens e heranças.</p>
+								<h5><a "service-details.html">Direito de Família e Sucessões</a></h5>
+								<p class="text-justify">Muitos dos conflitos familiares surgem por desconhecimento das principais regras de família e sucessões. Temos ampla experiência e contamos com profissionais altamente qualificados para assessorar nossos clientes na prevenção e resolução de conflitos dessa natureza.<br> Nossa atuação consultiva e contenciosa visa garantir os direitos de nossos clientes em ação de alimentos, investigação de paternidade, adoção, pactos antenupciais, contrato de união estável, união homoafetiva e namoro, testamento, planejamento patrimonial familiar e sucessório, interdição, direito homoafetivo, guarda e regulamentação de visitas, regime de bens e sua alteração, separação e divórcio, união estável e seus direitos patrimoniais e pessoais, entre outros.</p>
 							</div> <!-- /.single-service -->
 						</div> <!-- /.col- -->
-						<div class="col-lg-4 col-sm-6">
+						<div class="col-lg-6 col-sm-6">
 							<div class="single-service">
-								<i class="fa fa-users" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito de Família</a></h5>
-								<p class="text-justify">Divórcio judicial, divórcio extrajudicial (consensual), divórcio litigioso, união estável e pensão.</p>
-							</div> <!-- /.single-service -->
-						</div> <!-- /.col- -->
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-service">
-								<i class="fa fa-user" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito Civil</a></h5>
-								<p class="text-justify">Testamento, Inventário e interdição de familiares.<br></br></p>
-							</div> <!-- /.single-service -->
-						</div> <!-- /.col- -->
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-service">
-								<i class="fa fa-suitcase" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito Empresarial</a></h5>
-								<p class="text-justify">empresas, sociedades empresáriais, contratos, propriedade intelectual, relação concorrencial, falência e recuperação de empresas.</p>
-							</div> <!-- /.single-service -->
-						</div> <!-- /.col- -->
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-service">
-								<i class="fa fa-user-md" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito Médico</a></h5>
-								<p class="text-justify">Profissionais e instituições de saúde e pacientes que sofreram danos, constrangimento ou tiveram pedidos de tratamento  negados.</p>
-							</div> <!-- /.single-service -->
-						</div> <!-- /.col- -->
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-service">
-								<i class="fa fa-money" aria-hidden="true"></i>
-								<h5><a "service-details.html">Direito Tributário</a></h5>
-								<p class="text-justify">Revisão tributária, recuperação de crédito sobre PIS/Cofins, ICMS, IRPJ, CSLL, IPI e Previdenciário.<br></br></p>
+								<h5><a "service-details.html">Direito Médico e da Saúde</a></h5>
+								<p class="text-justify">Temos ampla experiência e contamos com profissionais altamente qualificados para zelar pela saúde e pela vida de nossos clientes, exigindo que as operadoras de planos de saúde e o poder público respeitem o princípio da dignidade da pessoa humana.<br>Nossa atuação consultiva e contenciosa visa garantir os direitos de nossos clientes quando violados por condutas abusivas dos planos de saúde e do poder público, ao negarem ou limitarem a cobertura de tratamentos médicos, procedimentos, atendimentos, ao se recusarem a fornecer medicamentos, órteses e próteses, em caso de erro médico, falha na prestação de serviços médico-hospitalares, indenizações, entre outros.</p>
 							</div> <!-- /.single-service -->
 						</div> <!-- /.col- -->
 					</div> <!-- /.row -->
