@@ -1,0 +1,166 @@
+
+.cf:after,
+.slick-dots:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+}
+
+.slick-dots {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0 3px;
+  display: none !important;
+}
+
+.slick-dots li {
+  cursor: pointer;
+  float: left;
+  width: 33.3%;
+  background: #000;
+  padding: 0;
+  border-right: 1px solid #fff;
+}
+
+.slick-dots li:last-child {
+  border: none;
+}
+
+.slick-dots li,
+.slick-dots li button {
+  outline: none;
+}
+
+.slick-dots li button {
+  background: #99B386;
+  border: none;
+  width: 0px;
+  height: 10px;
+  padding: 0;
+  cursor: pointer;
+  display: block;
+}
+
+.slick-slide .img--holder {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+
+.headBanner {
+  transition: none 0s ease 0s;
+  text-transform: uppercase;
+  line-height: 58px;
+  letter-spacing: 2px;
+  font-weight: 800;
+  font-size: 100px;
+  opacity: 1;
+  color: white;
+  margin: 30px 0px;
+}
+
+.textBanner {
+  line-height: 26px;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-size: 17px;
+  color: rgb(229, 228, 228);
+  
+}
+
+.align-mid {
+  padding-top: 238px;
+}
+
+.wrap {
+  /*Ajuste a largura e altura desejadas aqui*/
+  width: 100vw;
+  height: 500px;
+
+  /*isto fará o elemento video e o .container se adaptarem ao .wrap*/
+  position: relative;
+}
+
+.wrap>.bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  /*apenas um -1 é necessário quando se trabalha com relative + absolute, sendo pai e filho*/
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /* evita do video passar a altura desejada do .wrap */
+}
+
+.wrap>.bg-video>video {
+  width: 100%;
+  margin-top: -500px
+}
+
+.smallBanner{
+  color: white;
+  text-transform: uppercase;
+  font-size: 33px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-align: center;
+  margin: 44px 0px;
+}
+
+.btn-slider{
+  background-color: #191919;
+  padding: 15px 25px;
+  color: white;
+  border-radius: 2px;
+  border: 1px #ffffff14 solid;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-family: Roboto;
+  margin-right: 15px;
+}
+
+
+.btn-slider:hover{
+  background-color: #daa520;
+  color: white
+  
+}
+
+.transparent{
+  background: transparent;
+}
+
+.divBtn{
+  margin-top: 30px;
+}
+
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
+  @media {
+    .safari_only {
+
+      margin-top: unset;
+
+    }
+  }
+}
+
+
+
+#slick{
+  background-color: black;
+}
