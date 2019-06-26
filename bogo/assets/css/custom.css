@@ -3647,15 +3647,13 @@
 	.page_title h1 {
 		font-size: 131PX;
 		margin-top: 56px;
-		line-height: 40px;
+		line-height: 110px;
 		letter-spacing: 15px;
 		opacity: 1;
 	}
 
 	.page_sub_title {
-		margin-top: -30px;
 		text-transform: uppercase;
-		margin-left: -79px;
 		letter-spacing: 3px;
 		font-weight: bold;
 	}
