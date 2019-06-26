@@ -1,13 +1,13 @@
 <form class="mb-0">
 	<div class="row">
 		<div class="col-sm-12 col-md-12 col-lg-4">
-			<input type="text" class="form-control" name="contact-name" id="contact-name" placeholder="Nome" required="">
+			<input type="text" class="form-control" name="contact-name" id="contact-name" placeholder="Nome" required=""></input>
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-4">
-			<input type="email" class="form-control" name="contact-email" id="contact-email" placeholder="E-mail">
+			<input type="email" class="form-control" name="contact-email" id="contact-email" placeholder="E-mail"></input>
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-4">
-			<input type="text" class="form-control" name="contact-phone" id="contact-phone" placeholder="Telefone">
+			<input type="text" class="form-control" name="contact-phone" id="contact-phone" placeholder="Telefone"></input>
 		</div>
 	</div>
 	<div class="row">

@@ -261,13 +261,13 @@
                     <form class="mb-0">
                         <div class="row">
                             <div class="col">
-                                <input type="text" class="form-control" name="contact-name" id="contact-name" placeholder="Nome" required="">
+                                <input type="text" class="form-control" name="contact-name" id="contact-name" placeholder="Nome" required=""></input>
                             </div>
                         </div>
                         <div class="row">
 
                             <div class="col">
-                                <input type="email" class="form-control" name="contact-email" id="contact-email" placeholder="E-mail">
+                                <input type="email" class="form-control" name="contact-email" id="contact-email" placeholder="E-mail"></input>
                             </div>
                         </div>
                         <div class="row">
@@ -277,7 +277,7 @@
                         </div>
                         <div class="row">
                             <div class="col">
-                                <input type="submit" value="Enviar" name="submit" class="btn btn--secondary btn--block">
+                                <input type="submit" value="Enviar" name="submit" class="btn btn--secondary btn--block"></input>
                             </div>
                         </div>
                         <div class="row">

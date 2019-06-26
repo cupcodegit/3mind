@@ -55,7 +55,7 @@ else {echo "Márcio Ferezin Advocacia";} ?></title>
 	<div class="reverse-spinner"></div>
 </div><!-- Document Wrapper
 	============================================= -->
-<div id="wrapper" class="wrapper clearfix">
+<div id="wrapper" class="wrapper clearfix"></div>
 	<header id="navbar-spy" class="header header-1 header-transparent">
 		<nav id="primary-menu" class="navbar navbar-expand-lg navbar-light navbar-bordered">
 			<div class="container">
@@ -93,8 +93,8 @@ else {echo "Márcio Ferezin Advocacia";} ?></title>
 							<a href="whatsapp://send?text=Olá!&phone=+5511969107420" class="btn"><i class="fab fa-whatsapp"></i> (11) 96910-7420 </a>
 						</div>				<!-- Module Social -->
 						<div class="module module-social">
-							<a href="https://www.facebook.com/mferezinadvocacia/"><i class="fab fa-facebook-square"></i>
-							<a href="#"><i class="fab fa-instagram"></i>
+							<a href="https://www.facebook.com/mferezinadvocacia/"><i class="fab fa-facebook-square"></i></a>
+							<a href="#"><i class="fab fa-instagram"></i></a>
 						</div><!-- .module-social end -->
 						<!-- Module Search -->
 						<div class="module module-search">
@@ -108,7 +108,7 @@ else {echo "Márcio Ferezin Advocacia";} ?></title>
 										<div class="row">
 											<div class="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
 												<form class="form-search">
-													<input type="text" class="form-control" placeholder="Procurar...">
+													<input type="text" class="form-control" placeholder="Procurar..."></input>
 												</form><!-- .form-search end -->
 											</div><!-- .col-md-8 end -->
 										</div><!-- .row end -->
