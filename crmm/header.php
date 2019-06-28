@@ -30,7 +30,7 @@
 	<div class="clearfix">
 	<!-- Logo Box -->
 	<div class="pull-left logo-box">
-	<div class="logo"><a href="index.html"><img src="images/logo-branco.png" alt="" title=""></a></div>
+	<div class="logo"><a href="index.php"><img src="images/logo-branco.png" alt="" title=""></a></div>
 	</div>
 	<div class="nav-outer clearfix">
 	<!-- Main Menu -->
@@ -129,7 +129,7 @@
 		<div class="hidden-bar-wrapper">
 		<div class="inner-box">
 		<div class="logo">
-		<a href="index.html"><img src="images/logo.png" alt="" /></a>
+		<a href="index.php"><img src="images/logo.png" alt="" /></a>
 		</div>
 		<br><br>
 		<!-- List Style Four -->

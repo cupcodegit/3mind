@@ -6,7 +6,7 @@
 			<div class="content">
 				<h1>Sobre nós</h1>
 				<ul class="page-breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>Sobre nós</li>
 				</ul>
 			</div>

@@ -14,7 +14,7 @@
                             <div class="footer-column col-lg-8 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.html"><img class="img15" src="images/footer-logo.png" alt="" /></a>
+										<a href="index.php"><img class="img15" src="images/footer-logo.png" alt="" /></a>
 									</div>
 								</div>
 							</div>
@@ -71,7 +71,7 @@
 					
 					<!-- Copyright Column -->
 					<div class="copyright-column col-lg-6 col-md-6 col-sm-12">
-						<div class="copyright">2019 &copy; todos os direitos reservados <a href="#">3mind</a></div>
+						<div class="copyright">2019 &copy; todos os direitos reservados <a href="http://www.3mind.com.br/"target="_blank">3mind</a></div>
 					</div>
 					
 					<!-- Social Column -->
