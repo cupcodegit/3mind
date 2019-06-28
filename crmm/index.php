@@ -57,7 +57,7 @@
 							<div class="big-icon fa fa-newspaper"></div>
 							<div class="content">
 								<div class="icon-box">
-									<a href=""><span class="icon fa-newspaper"></span></a>
+								<img class="img38" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPjxnPjxnPgoJPGcgaWQ9Im5ld3MiPgoJCTxwYXRoIHN0eWxlPSJmaWxsOiNENUFBNkQiIGQ9Ik0yOSwwSDdDNS4zNDMsMCw0LDEuMzQyLDQsM3YySDNDMS4zNDMsNSwwLDYuMzQyLDAsOHYyMGMwLDIuMjA5LDEuNzkxLDQsNCw0aDI0ICAgIGMyLjIwOSwwLDQtMS43OTEsNC00VjNDMzIsMS4zNDIsMzAuNjU2LDAsMjksMHogTTMwLDI4YzAsMS4xMDItMC44OTgsMi0yLDJINGMtMS4xMDMsMC0yLTAuODk4LTItMlY4YzAtMC41NTIsMC40NDgtMSwxLTFoMXYyMCAgICBjMCwwLjU1MywwLjQ0NywxLDEsMXMxLTAuNDQ3LDEtMVYzYzAtMC41NTIsMC40NDgtMSwxLTFoMjJjMC41NTEsMCwxLDAuNDQ4LDEsMVYyOHoiIGRhdGEtb3JpZ2luYWw9IiMwMTAwMDIiIGNsYXNzPSJhY3RpdmUtcGF0aCIgZGF0YS1vbGRfY29sb3I9IiMwMTAwMDIiPjwvcGF0aD4KCQk8cGF0aCBzdHlsZT0iZmlsbDojRDVBQTZEIiBkPSJNMTkuNDk4LDEzLjAwNWg4YzAuMjc3LDAsMC41LTAuMjI0LDAuNS0wLjVzLTAuMjIzLTAuNS0wLjUtMC41aC04Yy0wLjI3NSwwLTAuNSwwLjIyNC0wLjUsMC41ICAgIFMxOS4yMjMsMTMuMDA1LDE5LjQ5OCwxMy4wMDV6IiBkYXRhLW9yaWdpbmFsPSIjMDEwMDAyIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjMDEwMDAyIj48L3BhdGg+CgkJPHBhdGggc3R5bGU9ImZpbGw6I0Q1QUE2RCIgZD0iTTE5LjQ5OCwxMC4wMDVoOGMwLjI3NywwLDAuNS0wLjIyNCwwLjUtMC41cy0wLjIyMy0wLjUtMC41LTAuNWgtOGMtMC4yNzUsMC0wLjUsMC4yMjQtMC41LDAuNSAgICBTMTkuMjIzLDEwLjAwNSwxOS40OTgsMTAuMDA1eiIgZGF0YS1vcmlnaW5hbD0iIzAxMDAwMiIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzAxMDAwMiI+PC9wYXRoPgoJCTxwYXRoIHN0eWxlPSJmaWxsOiNENUFBNkQiIGQ9Ik0xOS40OTgsNy4wMDVoOGMwLjI3NywwLDAuNS0wLjIyNCwwLjUtMC41cy0wLjIyMy0wLjUtMC41LTAuNWgtOGMtMC4yNzUsMC0wLjUsMC4yMjQtMC41LDAuNSAgICBTMTkuMjIzLDcuMDA1LDE5LjQ5OCw3LjAwNXoiIGRhdGEtb3JpZ2luYWw9IiMwMTAwMDIiIGNsYXNzPSJhY3RpdmUtcGF0aCIgZGF0YS1vbGRfY29sb3I9IiMwMTAwMDIiPjwvcGF0aD4KCQk8cGF0aCBzdHlsZT0iZmlsbDojRDVBQTZEIiBkPSJNMTYuNSwyNy4wMDRoLThjLTAuMjc2LDAtMC41LDAuMjI1LTAuNSwwLjVjMCwwLjI3NywwLjIyNCwwLjUsMC41LDAuNWg4ICAgIGMwLjI3NSwwLDAuNS0wLjIyMywwLjUtMC41QzE3LDI3LjIyOSwxNi43NzYsMjcuMDA0LDE2LjUsMjcuMDA0eiIgZGF0YS1vcmlnaW5hbD0iIzAxMDAwMiIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzAxMDAwMiI+PC9wYXRoPgoJCTxwYXRoIHN0eWxlPSJmaWxsOiNENUFBNkQiIGQ9Ik0xNi41LDI0LjAwNGgtOGMtMC4yNzYsMC0wLjUsMC4yMjUtMC41LDAuNWMwLDAuMjc3LDAuMjI0LDAuNSwwLjUsMC41aDggICAgYzAuMjc1LDAsMC41LTAuMjIzLDAuNS0wLjVDMTcsMjQuMjI5LDE2Ljc3NiwyNC4wMDQsMTYuNSwyNC4wMDR6IiBkYXRhLW9yaWdpbmFsPSIjMDEwMDAyIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjMDEwMDAyIj48L3BhdGg+CgkJPHBhdGggc3R5bGU9ImZpbGw6I0Q1QUE2RCIgZD0iTTE2LjUsMjEuMDA0aC04Yy0wLjI3NiwwLTAuNSwwLjIyNS0wLjUsMC41YzAsMC4yNzcsMC4yMjQsMC41LDAuNSwwLjVoOCAgICBjMC4yNzUsMCwwLjUtMC4yMjMsMC41LTAuNUMxNywyMS4yMjksMTYuNzc2LDIxLjAwNCwxNi41LDIxLjAwNHoiIGRhdGEtb3JpZ2luYWw9IiMwMTAwMDIiIGNsYXNzPSJhY3RpdmUtcGF0aCIgZGF0YS1vbGRfY29sb3I9IiMwMTAwMDIiPjwvcGF0aD4KCQk8cGF0aCBzdHlsZT0iZmlsbDojRDVBQTZEIiBkPSJNMjcuNSwyNy4wMDRoLThjLTAuMjc3LDAtMC41LDAuMjI1LTAuNSwwLjVjMCwwLjI3NywwLjIyMywwLjUsMC41LDAuNWg4ICAgIGMwLjI3NSwwLDAuNS0wLjIyMywwLjUtMC41QzI4LDI3LjIyOSwyNy43NzUsMjcuMDA0LDI3LjUsMjcuMDA0eiIgZGF0YS1vcmlnaW5hbD0iIzAxMDAwMiIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzAxMDAwMiI+PC9wYXRoPgoJCTxwYXRoIHN0eWxlPSJmaWxsOiNENUFBNkQiIGQ9Ik0yNy41LDI0LjAwNGgtOGMtMC4yNzcsMC0wLjUsMC4yMjUtMC41LDAuNWMwLDAuMjc3LDAuMjIzLDAuNSwwLjUsMC41aDggICAgYzAuMjc1LDAsMC41LTAuMjIzLDAuNS0wLjVDMjgsMjQuMjI5LDI3Ljc3NSwyNC4wMDQsMjcuNSwyNC4wMDR6IiBkYXRhLW9yaWdpbmFsPSIjMDEwMDAyIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjMDEwMDAyIj48L3BhdGg+CgkJPHBhdGggc3R5bGU9ImZpbGw6I0Q1QUE2RCIgZD0iTTI3LjUsMjEuMDA0aC04Yy0wLjI3NywwLTAuNSwwLjIyNS0wLjUsMC41YzAsMC4yNzcsMC4yMjMsMC41LDAuNSwwLjVoOCAgICBjMC4yNzUsMCwwLjUtMC4yMjMsMC41LTAuNUMyOCwyMS4yMjksMjcuNzc1LDIxLjAwNCwyNy41LDIxLjAwNHoiIGRhdGEtb3JpZ2luYWw9IiMwMTAwMDIiIGNsYXNzPSJhY3RpdmUtcGF0aCIgZGF0YS1vbGRfY29sb3I9IiMwMTAwMDIiPjwvcGF0aD4KCQk8cGF0aCBzdHlsZT0iZmlsbDojRDVBQTZEIiBkPSJNMjcuNSwxNS4wMDRoLTE5Yy0wLjI3NiwwLTAuNSwwLjIyNC0wLjUsMC41czAuMjI0LDAuNSwwLjUsMC41aDE5YzAuMjc1LDAsMC41LTAuMjI0LDAuNS0wLjUgICAgUzI3Ljc3NSwxNS4wMDQsMjcuNSwxNS4wMDR6IiBkYXRhLW9yaWdpbmFsPSIjMDEwMDAyIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjMDEwMDAyIj48L3BhdGg+CgkJPHBhdGggc3R5bGU9ImZpbGw6I0Q1QUE2RCIgZD0iTTI3LjUsMTguMDA0aC0xOWMtMC4yNzYsMC0wLjUsMC4yMjUtMC41LDAuNWMwLDAuMjc3LDAuMjI0LDAuNSwwLjUsMC41aDE5ICAgIGMwLjI3NSwwLDAuNS0wLjIyMywwLjUtMC41QzI4LDE4LjIyOSwyNy43NzUsMTguMDA0LDI3LjUsMTguMDA0eiIgZGF0YS1vcmlnaW5hbD0iIzAxMDAwMiIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzAxMDAwMiI+PC9wYXRoPgoJCTxwYXRoIHN0eWxlPSJmaWxsOiNENUFBNkQiIGQ9Ik05LDEzaDdjMC41NTMsMCwxLTAuNDQ3LDEtMVY1LjAwNGMwLTAuNTUzLTAuNDQ3LTEtMS0xSDljLTAuNTUzLDAtMSwwLjQ0Ny0xLDFWMTIgICAgQzgsMTIuNTUyLDguNDQ3LDEzLDksMTN6IE0xMCw2aDV2NWgtNVY2eiIgZGF0YS1vcmlnaW5hbD0iIzAxMDAwMiIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzAxMDAwMiI+PC9wYXRoPgoJPC9nPgo8L2c+PC9nPiA8L3N2Zz4=" />
 								</div>
 								<div class="title"><a href="">Notícias para empresários</a></div>
 							</div>
@@ -69,7 +69,8 @@
 							<div class="big-icon fa fa-whatsapp"></div>
 							<div class="content">
 								<div class="icon-box">
-									<a href=""><span class="icon fa-whatsapp"></span></a>
+								<img class="img38" src="data:image/svg+xml;base64,
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDQxOC4xMzUgNDE4LjEzNSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDE4LjEzNSA0MTguMTM1OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGNsYXNzPSIiPjxnPjxnPgoJPHBhdGggc3R5bGU9ImZpbGw6I0Q1QUE2RCIgZD0iTTE5OC45MjksMC4yNDJDODguNSw1LjUsMS4zNTYsOTcuNDY2LDEuNjkxLDIwOC4wMmMwLjEwMiwzMy42NzIsOC4yMzEsNjUuNDU0LDIyLjU3MSw5My41MzYgICBMMi4yNDUsNDA4LjQyOWMtMS4xOTEsNS43ODEsNC4wMjMsMTAuODQzLDkuNzY2LDkuNDgzbDEwNC43MjMtMjQuODExYzI2LjkwNSwxMy40MDIsNTcuMTI1LDIxLjE0Myw4OS4xMDgsMjEuNjMxICAgYzExMi44NjksMS43MjQsMjA2Ljk4Mi04Ny44OTcsMjEwLjUtMjAwLjcyNEM0MjAuMTEzLDkzLjA2NSwzMjAuMjk1LTUuNTM4LDE5OC45MjksMC4yNDJ6IE0zMjMuODg2LDMyMi4xOTcgICBjLTMwLjY2OSwzMC42NjktNzEuNDQ2LDQ3LjU1OS0xMTQuODE4LDQ3LjU1OWMtMjUuMzk2LDAtNDkuNzEtNS42OTgtNzIuMjY5LTE2LjkzNWwtMTQuNTg0LTcuMjY1bC02NC4yMDYsMTUuMjEybDEzLjUxNS02NS42MDcgICBsLTcuMTg1LTE0LjA3Yy0xMS43MTEtMjIuOTM1LTE3LjY0OS00Ny43MzYtMTcuNjQ5LTczLjcxM2MwLTQzLjM3MywxNi44OS04NC4xNDksNDcuNTU5LTExNC44MTkgICBjMzAuMzk1LTMwLjM5NSw3MS44MzctNDcuNTYsMTE0LjgyMi00Ny41NkMyNTIuNDQzLDQ1LDI5My4yMTgsNjEuODksMzIzLjg4Nyw5Mi41NThjMzAuNjY5LDMwLjY2OSw0Ny41NTksNzEuNDQ1LDQ3LjU2LDExNC44MTcgICBDMzcxLjQ0NiwyNTAuMzYxLDM1NC4yODEsMjkxLjgwMywzMjMuODg2LDMyMi4xOTd6IiBkYXRhLW9yaWdpbmFsPSIjN0FEMDZEIiBjbGFzcz0iYWN0aXZlLXBhdGgiIGRhdGEtb2xkX2NvbG9yPSIjN0FEMDZEIj48L3BhdGg+Cgk8cGF0aCBzdHlsZT0iZmlsbDojRDVBQTZEIiBkPSJNMzA5LjcxMiwyNTIuMzUxbC00MC4xNjktMTEuNTM0Yy01LjI4MS0xLjUxNi0xMC45NjgtMC4wMTgtMTQuODE2LDMuOTAzbC05LjgyMywxMC4wMDggICBjLTQuMTQyLDQuMjItMTAuNDI3LDUuNTc2LTE1LjkwOSwzLjM1OGMtMTkuMDAyLTcuNjktNTguOTc0LTQzLjIzLTY5LjE4Mi02MS4wMDdjLTIuOTQ1LTUuMTI4LTIuNDU4LTExLjUzOSwxLjE1OC0xNi4yMTggICBsOC41NzYtMTEuMDk1YzMuMzYtNC4zNDcsNC4wNjktMTAuMTg1LDEuODQ3LTE1LjIxbC0xNi45LTM4LjIyM2MtNC4wNDgtOS4xNTUtMTUuNzQ3LTExLjgyLTIzLjM5LTUuMzU2ICAgYy0xMS4yMTEsOS40ODItMjQuNTEzLDIzLjg5MS0yNi4xMywzOS44NTRjLTIuODUxLDI4LjE0NCw5LjIxOSw2My42MjIsNTQuODYyLDEwNi4yMjJjNTIuNzMsNDkuMjE1LDk0Ljk1Niw1NS43MTcsMTIyLjQ0OSw0OS4wNTcgICBjMTUuNTk0LTMuNzc3LDI4LjA1Ni0xOC45MTksMzUuOTIxLTMxLjMxN0MzMjMuNTY4LDI2Ni4zNCwzMTkuMzM0LDI1NS4xMTQsMzA5LjcxMiwyNTIuMzUxeiIgZGF0YS1vcmlnaW5hbD0iIzdBRDA2RCIgY2xhc3M9ImFjdGl2ZS1wYXRoIiBkYXRhLW9sZF9jb2xvcj0iIzdBRDA2RCI+PC9wYXRoPgo8L2c+PC9nPiA8L3N2Zz4=" />
 								</div>
 								<div class="title"><a href="">Tire suas dúvidas</a></div>
 							</div>
@@ -445,25 +446,52 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		<div class="container">
 			<!-- Sec Title -->
 			<div class="section-title">
-				<div class="title">Depoimentos</div>
 				<h3>O que os clientes dizem sobre<span> nós</span></h3>
+				<br>
+				<p class="text-justify">Tive o grande prazer de conduzir um Processo Seletivo para o CRMM - Caminha, Reis, Mutim e Moraes - Sociedade de Advogados para 02 vagas em aberto e fiquei bastante feliz com o resultado. Todo processo foi construído e alinhado, desde o início, em conjunto com os Gestores do escritório: definição de perfis, anúncio e divulgação das vagas, fases de testes e dinâmicas, até finalmente, o fechamento com entrevista por competência e escolha dos candidatos. Foram meses de planejamento e cuidado para se escolher dentre os 200 cvs recebidos, quais realmente, atenderiam as exigências do cargo.</p>
 			</div>
 			<div class="testimonial-carousel owl-carousel owl-theme">
 				<!-- Testimonial Block Two -->
 				<div class="testimonial-block-two">
 					<div class="inner-box">
-						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
+						<div class="text text-justify">Uma coisa com certeza fez a diferença neste processo: A integridade e seriedade dos sócios em não só se preocuparem com a escolha dos candidatos ideais e sim no desenvolvimento dos indivíduos e adaptação dos mesmos na cultura e valores da empresa. Excelente empresa para se trabalhar.</div>
 						<div class="author-post">
 							<div class="author-inner">
-								<div class="image"><img src="images/resource/author-3.jpg" alt="" /></div>
-								<h3>Andrew Rob</h3>
-								<div class="designation">Former Developer</div>
+								<div class="image"><img src="img/depoimento.jpg" alt="" /></div>
+								<h3>Deborah Leite</h3>
+								<div class="designation">Gestora de RH da DMKL Consultoria</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- Testimonial Block Two -->
 				<div class="testimonial-block-two">
+					<div class="inner-box">
+						<div class="text text-justify">Sempre propondo soluções criativas e inovadoras, os advogados de Caminha, Reis, Mutim e Moraes vêm contribuindo decisivamente para o tomada de nossas decisões, proporcionando à nossa empresa maior segurança patrimonial e significativa redução de encargos tributários.</div>
+						<div class="author-post">
+							<div class="author-inner">
+								<div class="image"><img src="img/depoimento2.jpg" alt="" /></div>
+								<h3>Zilberto Peixoto</h3>
+								<div class="designation">Zilberto Peixoto</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Testimonial Block Two -->
+				<div class="testimonial-block-two">
+					<div class="inner-box">
+						<div class="text text-justify">A consultoria prestada pelo escritório foi fundamental para a nossa reestruturação societária, e também para a revisão de nossas rotinas e processos internos ligados às relações com pacientes, prestadores e colaboradores em geral</div>
+						<div class="author-post">
+							<div class="author-inner">
+								<div class="image"><img src="img/depoimento1.jpg" alt="" /></div>
+								<h3>Dra. Edelzuita Castro</h3>
+								<div class="designation">Diretora Médica da Oftalmo Day MEG</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Testimonial Block Two -->
+				<!--div class="testimonial-block-two">
 					<div class="inner-box">
 						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
 						<div class="author-post">
@@ -474,9 +502,9 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 							</div>
 						</div>
 					</div>
-				</div>
+				</div-->
 				<!-- Testimonial Block Two -->
-				<div class="testimonial-block-two">
+				<!--div class="testimonial-block-two">
 					<div class="inner-box">
 						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
 						<div class="author-post">
@@ -487,9 +515,9 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 							</div>
 						</div>
 					</div>
-				</div>
+				</div-->
 				<!-- Testimonial Block Two -->
-				<div class="testimonial-block-two">
+				<!--div class="testimonial-block-two">
 					<div class="inner-box">
 						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
 						<div class="author-post">
@@ -500,33 +528,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 							</div>
 						</div>
 					</div>
-				</div>
-				<!-- Testimonial Block Two -->
-				<div class="testimonial-block-two">
-					<div class="inner-box">
-						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
-						<div class="author-post">
-							<div class="author-inner">
-								<div class="image"><img src="images/resource/author-3.jpg" alt="" /></div>
-								<h3>Andrew Rob</h3>
-								<div class="designation">Former Developer</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- Testimonial Block Two -->
-				<div class="testimonial-block-two">
-					<div class="inner-box">
-						<div class="text text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean tor massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </div>
-						<div class="author-post">
-							<div class="author-inner">
-								<div class="image"><img src="images/resource/author-4.jpg" alt="" /></div>
-								<h3>Nelli Jhonson</h3>
-								<div class="designation">Former Developer</div>
-							</div>
-						</div>
-					</div>
-				</div>
+				</div-->
 			</div>
 		</div>
 	</section>

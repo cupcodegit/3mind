@@ -7032,3 +7032,8 @@ span.fa.fa-facebook:hover {
 span.fa.fa-instagram:hover {
     color: #b10808;
 }
+img.img38 {
+    display: inline-block;
+    max-width: 38px;
+    height: auto;
+}
