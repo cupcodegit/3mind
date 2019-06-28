@@ -6,7 +6,7 @@
 			<div class="content">
 				<h1>Contato</h1>
 				<ul class="page-breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>Contato</li>
 				</ul>
 			</div>
@@ -64,9 +64,9 @@
 									<!-- Column -->
 									<div class="column col-lg-6 col-md-6 col-sm-12">
 										<ul class="list-style-two style-two">
-											<li><span class="icon flaticon-phone-call"></span>+55 (71) 3444-0600</li>
-											<li><span class="icon fa fa-whatsapp maior28"></span>+55 (71) 98127-0489 </li>
-											<li><span class="icon flaticon-chat"></span>secretaria@crmm.com.br</li>
+											<a href="tel:+557134440600"><li><span class="icon flaticon-phone-call"></span>+55 (71) 3444-0600</li></a>
+											<a href="whatsapp://send?text=Olá!&phone=+5571981270489"><li><span class="icon fa fa-whatsapp maior28"></span>+55 (71) 98127-0489 </li></a>
+											<a href="mailto:secretaria@crmm.com.br"><li><span class="icon flaticon-chat"></span>secretaria@crmm.com.br</li></a>
 										</ul>
 									</div>
 								</div>
@@ -122,9 +122,9 @@
 				</div>
 				<div class="column col-lg-4 col-md-6 col-sm-12">
 					<ul class="list-style-seven">
-						<li><span class="icon flaticon-call-answer"></span>+55 (71) 3444-0600</li>
-						<li><span class="icon fa fa-whatsapp m-maior"></span>+55 (71) 98127-0489</li>
-						<li><span class="icon fa fa-envelope-o"></span>secretaria@crmm.com.br</li>
+						<a href="tel:+557134440600"><li><span class="icon flaticon-call-answer"></span>+55 (71) 3444-0600</li></a>
+						<a href="whatsapp://send?text=Olá!&phone=+5571981270489"><li><span class="icon fa fa-whatsapp m-maior"></span>+55 (71) 98127-0489</li></a>
+						<a href="mailto:secretaria@crmm.com.br"><li><span class="icon fa fa-envelope-o"></span>secretaria@crmm.com.br</li></a>
 					</ul>
 				</div>
 			</div>
