@@ -96,6 +96,9 @@ body {
 			font-size: 16px;
 			line-height: 24px;
 	}
+	.cor-preto {
+    color: black;
+}
 	h6,
 	h6 a,
 	h6 span {
