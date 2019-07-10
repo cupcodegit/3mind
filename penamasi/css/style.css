@@ -191,6 +191,7 @@
 .blog-details .public-comment-area .comment button,.portfolio-details .details-text .text-left-side h2,.portfolio-details .details-text .portfolio-info-list li strong,.loan-section .loan-confirm-form p,
 .our-service-two .single-service h5:hover a,#mega-menu-wrapper .nav>li.active>a,#mega-menu-wrapper .nav>li:hover>a  {
   color:#beaa7a;
+  font-weight: 100;
 }
 .p-bg-color,#theme-main-banner .camera_caption a.button-one,.loan-section .loan-confirm-form .apply-button:hover,.main-menu-wrapper .right-widget .search-option form button,
 .theme-title a:hover,.theme-footer .subscribe-form input[type="submit"],#searchWrapper #close-button:hover:before,#searchWrapper #close-button:hover:after,
@@ -212,7 +213,7 @@
 .home-two-banner #theme-main-banner .camera_caption a.button-two:hover,.home-two-banner #theme-main-banner .camera_caption a.button-one:hover,
 .our-portfolio .single-item .text h4 a:hover,.our-portfolio .single-item .image-box .overlay-text h4 a:hover,.blog-sidebar .sidebar-recent-post li a:hover,
 .blog-details .public-comment-area .comment button:hover,#theme-main-banner .camera_prev:before,#theme-main-banner .camera_next:before,.consultation-form .phone-call:hover {
-  color: #22314A;
+  color: #ffffff;
 }
 .theme-main-header .top-header .right-widget>li a:hover {
   color: #beaa7a;
@@ -498,10 +499,11 @@ body .theme-button {
 #theme-main-banner .camera_prev:before {content: '';}
 #theme-main-banner .camera_next:before {content: '';}
 #theme-main-banner .camera_caption p {
-  font-size: 20px;
+  font-size: 14px;
   line-height: 35px;
   color: #fff;
   padding: 25px 0 30px 0;
+  font-weight: 100;
 }
 #theme-main-banner .camera_caption a {
   line-height: 51px;
