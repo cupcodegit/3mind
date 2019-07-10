@@ -213,7 +213,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 	</section>
 	<!-- End Feature Section Two -->
-	
+
 	<!-- Services Section Two -->
 	<section class="services-section-two" style="background-image: url(img/img4.jpg);">
 		<div class="container">
@@ -531,7 +531,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 	</section>
 	<!-- End Testimonial Section -->
-	
+
 	<!-- News Section -->
 	<section class="news-section">
 		<div class="container">
@@ -547,69 +547,14 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 					</div>
 				</div>
 			</div>
-			<div class="row clearfix">
+			<div class="row clearfix" id="blogArtigos">
 				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-1.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-1.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">Strategy for Norway's Peion Fund Global.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-2.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-2.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">What we are capable of usually gets discovered.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-3.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-3.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">Food industry leaders often change their promoters.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
+				
 			</div>
 		</div>
 	</section>
 	<!-- End News Section -->
-	
+
 	<!-- Contact Page Section -->
 	<section class="contact-form-section">
 		<div class="map-section">
@@ -630,11 +575,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 		<div class="container">
 			<div class="inner-container">
-				
+
 				<!-- Upper Content -->
 				<div class="upper-content">
 					<div class="row clearfix">
-						
+
 						<!-- Title Column -->
 						<div class="title-column col-lg-5 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -645,7 +590,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 								</div>
 							</div>
 						</div>
-						
+
 						<!-- Info Column -->
 						<div class="info-column col-lg-7 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -667,10 +612,10 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
-				
+
 				<!-- Default Form -->
 				<div class="default-form style-two">
 					<form method="post" action="Notícias.html">
@@ -678,39 +623,40 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="firstname" value="" placeholder="Nome" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="email" value="" placeholder="Telefone (DDD)" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-12 col-sm-12">
 								<input type="text" name="phone" value="" placeholder="E-mail" required>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<textarea name="message" placeholder="Mensagem"></textarea>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<button type="submit" class="theme-btn btn-style-one">Enviar</button>
-							</div>                                        
+							</div>
 						</div>
 					</form>
 				</div>
 				<!--End Default Form-->
-				
+
 			</div>
 		</div>
 	</section>
 	<!-- End Team Page Section -->
-	
-	
+
+
 <?php include 'footer.php'; ?>
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
 
 <script src="js/jquery.js"></script>
+<script src="js/blog.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
