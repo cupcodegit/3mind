@@ -16,7 +16,7 @@
 			<!-- Sec Title -->
 			<div class="section-title centered">
 				<div class="title">Áreas De Atuação</div>
-				<h3>Buscamos atuar em variados segmentos jurídico, com foco em solução jurídica e prestação de serviço de alta qualidade</h3>
+				<h3>Amplo domínio das relações jurídicas com foco em soluções eficientes no âmbito consultivo e preventivo</h3>
 			</div>
 			<div class="row clearfix">
 				

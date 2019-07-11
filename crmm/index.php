@@ -8,7 +8,7 @@
 					<div class="content">
 						<div class="title">Direito do Trabalho</div>
 						<h1>Rescisão por acordo:<span> Como funciona?</span></h1>
-						<a href="#" class="theme-btn btn-style-one">Saiba mais</a>
+						<a href="http://nrdc.dominiotemporario.com/noticias/?p=21" class="theme-btn btn-style-one" target="_blank">Saiba mais</a>
 					</div>
 				</div>
 			</div>
@@ -18,7 +18,7 @@
 					<div class="content">
 						<div class="title">Direito do Trabalho</div>
 						<h1>Demissão por justa causa:<span> Motivos e Direitos</span></h1>
-						<a href="#" class="theme-btn btn-style-one">Saiba mais</a>
+						<a href="http://nrdc.dominiotemporario.com/noticias/?p=24" class="theme-btn btn-style-one" target="_blank">Saiba mais</a>
 					</div>
 				</div>
 			</div>
@@ -28,7 +28,7 @@
 					<div class="content">
 						<div class="title">Direito do Trabalho</div>
 						<h1>Reforma Trabalhista: Quais são as<span> principais alterações?</span></h1>
-						<a href="#" class="theme-btn btn-style-one">Saiba mais</a>
+						<a href="http://nrdc.dominiotemporario.com/noticias/?p=17" class="theme-btn btn-style-one" target="_blank">Saiba mais</a>
 					</div>
 				</div>
 			</div>
@@ -127,7 +127,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 						<div class="signature">
 							<div class="signature-img"><img class="assinatura" src="img/assinatura.jpg" alt=""/></div>
 							<h5>João Carlos Nogueira Reis</h5>
-							<div class="designation">Sócio Fundado</div>
+							<div class="designation">Sócio Fundador</div>
 						</div>
 					</div>
 				</div>
@@ -149,7 +149,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 										<div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 											<div class="count-outer count-box">
 												+<span class="count-text" data-speed="4000" data-stop="3000">0</span>
-												<div class="counter-title">3 mil casos resolvidos com sucesso</div>
+												<div class="counter-title">casos resolvidos com sucesso</div>
 											</div>
 										</div>
 									</div>
@@ -197,7 +197,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 						<div class="fill-line"></div>
 						<div class="inner-box">
 							<div class="year">2011</div>
-							<h3>Restruturação, mudança para a nossa atual sede e entrada de novos sócios</h3>
+							<h3>Reestruturação, mudança para a nossa atual sede e entrada de novos sócios</h3>
 						</div>
 					</div>
 					<!-- Feature Block Two -->
@@ -205,7 +205,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 						<div class="fill-line"></div>
 						<div class="inner-box">
 							<div class="year">2019</div>
-							<h3>Ampicação da equipe</h3>
+							<h3>Ampliação da equipe</h3>
 						</div>
 					</div>
 				</div>
@@ -213,7 +213,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 	</section>
 	<!-- End Feature Section Two -->
-	
+
 	<!-- Services Section Two -->
 	<section class="services-section-two" style="background-image: url(img/img4.jpg);">
 		<div class="container">
@@ -382,7 +382,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 								<div class="inner-box">
 									<div class="testimonial-content">
 										<span class="quote-icon flaticon-left-quote"></span>
-										<div class="text text-justify">Para nós, Ética e Ccompromisso não são apenas palavras de efeito para usarmos em nosso portfolio. São os valores que constituem a base da nossa conduta.</div>
+										<div class="text text-justify">Para nós, Ética e compromisso não são apenas palavras de efeito para usarmos em nosso portfolio. São os valores que constituem a base da nossa conduta.</div>
 										<!-- Lower Box -->
 										<div class="lower-box">
 											<div class="box-inner">
@@ -447,14 +447,12 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 			<!-- Sec Title -->
 			<div class="section-title">
 				<h3>O que os clientes dizem sobre<span> nós</span></h3>
-				<br>
-				<p class="text-justify">Tive o grande prazer de conduzir um Processo Seletivo para o CRMM - Caminha, Reis, Mutim e Moraes - Sociedade de Advogados para 02 vagas em aberto e fiquei bastante feliz com o resultado. Todo processo foi construído e alinhado, desde o início, em conjunto com os Gestores do escritório: definição de perfis, anúncio e divulgação das vagas, fases de testes e dinâmicas, até finalmente, o fechamento com entrevista por competência e escolha dos candidatos. Foram meses de planejamento e cuidado para se escolher dentre os 200 cvs recebidos, quais realmente, atenderiam as exigências do cargo.</p>
 			</div>
 			<div class="testimonial-carousel owl-carousel owl-theme">
 				<!-- Testimonial Block Two -->
 				<div class="testimonial-block-two">
 					<div class="inner-box">
-						<div class="text text-justify">Uma coisa com certeza fez a diferença neste processo: A integridade e seriedade dos sócios em não só se preocuparem com a escolha dos candidatos ideais e sim no desenvolvimento dos indivíduos e adaptação dos mesmos na cultura e valores da empresa. Excelente empresa para se trabalhar.</div>
+						<div class="text text-justify">A integridade e seriedade dos sócios em não só se preocuparem com a escolha dos candidatos ideais e sim no desenvolvimento dos indivíduos e adaptação dos mesmos na cultura e valores da empresa. Excelente empresa para se trabalhar.</div>
 						<div class="author-post">
 							<div class="author-inner">
 								<div class="image"><img src="img/depoimento.jpg" alt="" /></div>
@@ -533,7 +531,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 	</section>
 	<!-- End Testimonial Section -->
-	
+
 	<!-- News Section -->
 	<section class="news-section">
 		<div class="container">
@@ -542,76 +540,21 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 				<div class="clearfix">
 					<div class="pull-left">
 						<div class="title">Notícias</div>
-						<h3>Notícias relevantes para <br><span>Advogados Conectados</span></h3>
+						<h3>Notícias relevantes para <br><span>Empresários Conectados</span></h3>
 					</div>
 					<div class="pull-right">
 						<div class="text">Confira em nosso blog nossos conteúdos sobre variados temas do universo jurídico.</div>
 					</div>
 				</div>
 			</div>
-			<div class="row clearfix">
+			<div class="row clearfix" id="blogArtigos">
 				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-1.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-1.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">Strategy for Norway's Peion Fund Global.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-2.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-2.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">What we are capable of usually gets discovered.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="images/resource/news-3.jpg" alt="" />
-							<div class="overlay-box">
-								<a href="images/resource/news-3.jpg" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>
-							</div>
-						</div>
-						<div class="lower-content">
-							<ul class="post-meta">
-								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
-								<li><span class="fa fa-user"></span>Admin</li>
-							</ul>
-							<h5><a href="blog-single.html">Food industry leaders often change their promoters.</a></h5>
-							<a href="blog-single.html" class="theme-btn btn-style-two">View more</a>
-						</div>
-					</div>
-				</div>
+
 			</div>
 		</div>
 	</section>
 	<!-- End News Section -->
-	
+
 	<!-- Contact Page Section -->
 	<section class="contact-form-section">
 		<div class="map-section">
@@ -632,11 +575,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 		</div>
 		<div class="container">
 			<div class="inner-container">
-				
+
 				<!-- Upper Content -->
 				<div class="upper-content">
 					<div class="row clearfix">
-						
+
 						<!-- Title Column -->
 						<div class="title-column col-lg-5 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -647,7 +590,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 								</div>
 							</div>
 						</div>
-						
+
 						<!-- Info Column -->
 						<div class="info-column col-lg-7 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -669,10 +612,10 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
-				
+
 				<!-- Default Form -->
 				<div class="default-form style-two">
 					<form method="post" action="Notícias.html">
@@ -680,39 +623,40 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="firstname" value="" placeholder="Nome" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="email" value="" placeholder="Telefone (DDD)" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-12 col-sm-12">
 								<input type="text" name="phone" value="" placeholder="E-mail" required>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<textarea name="message" placeholder="Mensagem"></textarea>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<button type="submit" class="theme-btn btn-style-one">Enviar</button>
-							</div>                                        
+							</div>
 						</div>
 					</form>
 				</div>
 				<!--End Default Form-->
-				
+
 			</div>
 		</div>
 	</section>
 	<!-- End Team Page Section -->
-	
-	
+
+
 <?php include 'footer.php'; ?>
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
 
 <script src="js/jquery.js"></script>
+<script src="js/blog.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>

@@ -166,6 +166,9 @@ ul,li{
 	padding:0px;
 	margin:0px;	
 }
+h3.branco {
+	color: #ffffff;
+}
 
 img{
 	display:inline-block;
@@ -1709,7 +1712,7 @@ img{
 
 .banner-section .content{
 	position:relative;
-	max-width:730px;
+	max-width:830px;
 }
 
 .banner-section .content .title{
@@ -2197,7 +2200,7 @@ img{
 	top:0px;
 	right:0px;
 	bottom:0px;
-	background-color:rgba(156,156,156,0.52);
+	background-color:rgba(156,156,156,0.62);
 }
 
 .services-section-two .row{

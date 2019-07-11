@@ -1,0 +1,11 @@
+- Na minha opinião, inserir as informações de contato e redes sociais no menu conforme estão no briefing deixariam o layout um pouco poluído por ser alinhado ao centro a logo/links.
+
+- Criei o rodapé de uma maneira diferente, onde todas as páginas terão as informações necessárias sem serem duplicadas na mesma dobra. (por exemplo: não inseri os links dos menus no rodapé, pois o menu fica fixo em cima e aparece sempre no site).
+
+- As notícias do noticias.crmm.com.br são de assuntos gerais. Este blog não seria somente de previdenciário? (por isso ainda não migrei)
+
+- Quanto aos scripts de envio de e-mail e etc, preciso do domínio definitivo para configurar.
+
+- O E-mail comunicacao@nomedo... já foi criado? Se sim, me informa as credenciais para eu criar a conta no hotjar e inserir os códigos?
+
+- Os códigos de acompanhamento (Facebook pixel, google analytics e etc já foram criados), já foram criados? 
