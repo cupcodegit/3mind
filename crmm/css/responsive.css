@@ -157,7 +157,7 @@
 	}
 	.main-header .header-upper .logo-box .logo {
     position: relative;
-    top: 20px;
+    top: 0px;
 	}
 	.main-menu .navbar-collapse {
     padding-right: 20px;
@@ -369,7 +369,6 @@
 		display:block;
 		text-align:right;
 		width:100%;
-		padding:15px 0px;
 		right:0px;
 		z-index:12;
 	}
@@ -816,7 +815,7 @@
 	}
 	.main-header .header-upper .logo-box .logo {
     position: relative;
-    top: 0px;
+    top: -10px;
 	}
 	
 	.testimonial-block .inner-box .text,

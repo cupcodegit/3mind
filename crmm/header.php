@@ -30,7 +30,7 @@
 	<div class="clearfix">
 	<!-- Logo Box -->
 	<div class="pull-left logo-box">
-	<div class="logo"><a href="index.php"><img src="images/logo-branco.png" alt="" title=""></a></div>
+	<div class="logo"><a href="index.php"><img src="images/crmm-light.png" alt="" title=""></a></div>
 	</div>
 	<div class="nav-outer clearfix">
 	<!-- Main Menu -->
@@ -82,7 +82,7 @@
 	<div class="container clearfix">
 	<!--Logo-->
 	<div class="logo pull-left">
-	<a href="index.php" class="img-responsive"><img src="images/logo-branco.png" alt="" title=""></a>
+	<a href="index.php" class="img-responsive"><img src="images/crmm-light.png" alt="" title=""></a>
 	</div>
 	<!--Right Col-->
 	<div class="right-col pull-right">
@@ -129,7 +129,7 @@
 		<div class="hidden-bar-wrapper">
 		<div class="inner-box">
 		<div class="logo">
-		<a href="index.php"><img src="images/logo.png" alt="" /></a>
+		<a href="index.php"><img src="images/crmm-dark.png" alt="" /></a>
 		</div>
 		<br><br>
 		<!-- List Style Four -->

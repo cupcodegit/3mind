@@ -14,7 +14,7 @@
                             <div class="footer-column col-lg-8 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.php"><img class="img15" src="images/footer-logo.png" alt="" /></a>
+										<a href="index.php"><img class="img15" src="images/crmm-light.png" alt="" /></a>
 									</div>
 								</div>
 							</div>
