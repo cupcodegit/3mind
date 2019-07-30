@@ -57,7 +57,7 @@ function fnConsultaBlog() {
                 resul += '<div class="image">';
                 resul += '<img src="' + linkimg + '" alt="" />';
                 resul += '<div class="overlay-box">';
-                resul += '<a href="' + linkartigo + '" data-caption="" class="plus flaticon-plus"></a>';
+                resul += '<a href="' + linkartigo + '" data-fancybox="news" data-caption="" class="plus flaticon-plus"></a>';
                 resul += '</div>';
                 resul += '</div>';
                 resul += '<div class="lower-content">';
