@@ -4119,7 +4119,13 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-image: linear-gradient(left, #9e7247 0%, #D5AA6D 100%);
+  background-image: -ms-linear-gradient(left, #9e7247 0%, #D5AA6D 100%);
+  background-image: -moz-linear-gradient(left, #9e7247 0%, #D5AA6D 100%);
+  background-image: -o-linear-gradient(left, #9e7247 0%, #D5AA6D 100%);
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #9e7247), color-stop(100, #D5AA6D));
+  background-image: -webkit-linear-gradient(left, #9e7247 0%, #D5AA6D 100%);
+  background-image: linear-gradient(to right, #9e7247 0%, #D5AA6D 100%);
 }
 
 .nav-fill .nav-item {
