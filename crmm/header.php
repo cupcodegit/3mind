@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title><?php if (isset($title)) {echo $title;}
-else {echo "CRMM advocacia";} ?></title>
+else {echo "CRMM Advocacia";} ?></title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="myProjects/webProject/icofont/css/icofont.min.css">
 <script src="https://kit.fontawesome.com/9102b3461d.js"></script>
@@ -44,22 +44,22 @@ else {echo "CRMM advocacia";} ?></title>
 	<li class="dropdown"><a href="index.php">Home</a>
 	</li>
 	<li class="dropdown"><a href="sobre.php">Sobre nós</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="areas.php">Áreas de atuação</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="https://nrdc.dominiotemporario.com/noticias/">Notícias</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="contato.php">Contato</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="tel:+557134440600"><i class="icon fa fa-phone"></i></a>
-	
+
 	</li>
 	<li class="dropdown"><a href="https://api.whatsapp.com/send?phone=5571981270489"  target="_blank"><i class="icon fa fa-whatsapp"></i></a>
-	
+
 	</li>
 	<!--li><a href="contact.html">Contact us</a></li-->
 	</ul>
@@ -67,7 +67,7 @@ else {echo "CRMM advocacia";} ?></title>
 	</nav>
 
 	<div class="outer-box">
-	
+
 	<!--Nav Toggler-->
 	<div class="nav-toggler">
 	<div class="nav-btn hidden-bar-opener"><span class="flaticon-menu"></span>
@@ -117,10 +117,10 @@ else {echo "CRMM advocacia";} ?></title>
 	<!--End Sticky Header-->
 	</header>
     <!--End Main Header -->
-	
+
 	<!--Form Back Drop-->
     <div class="form-back-drop"></div>
-	
+
 	<!-- Hidden Navigation Bar -->
 	<section class="hidden-bar right-align">
 		<div class="hidden-bar-closer">
