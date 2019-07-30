@@ -43,14 +43,14 @@ font-family: 'Open Sans', sans-serif;*/
 @import url('jquery.fancybox.min.css');
 @import url('jquery.mCustomScrollbar.min.css');
 
-/*** 
+/***
 
 ====================================================================
 	Reset
 ====================================================================
 
  ***/
- 
+
 * {
 	margin:0px;
 	padding:0px;
@@ -58,7 +58,7 @@ font-family: 'Open Sans', sans-serif;*/
 	outline:none;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Global Settings
@@ -130,7 +130,7 @@ h6{
 }
 
 input,button,select,textarea{
-	
+
 }
 
 textarea{
@@ -164,7 +164,7 @@ p{
 ul,li{
 	list-style:none;
 	padding:0px;
-	margin:0px;	
+	margin:0px;
 }
 h3.branco {
 	color: #ffffff;
@@ -185,7 +185,7 @@ img{
 }
 
 .centered{
-	text-align:center;	
+	text-align:center;
 }
 
 /*Btn Style One*/
@@ -284,10 +284,10 @@ img{
 img{
 	display:inline-block;
 	max-width:100%;
-	height:auto;	
+	height:auto;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Scroll To Top style
@@ -314,7 +314,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;		
+	transition:all 300ms ease;
 }
 
 .scroll-to-top:hover{
@@ -322,7 +322,7 @@ img{
 	background:#d5aa6d;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Section Title
@@ -597,7 +597,7 @@ img{
 	font-size:25px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Header style
@@ -646,7 +646,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .main-header .header-upper{
@@ -732,12 +732,12 @@ img{
 }
 
 .main-header .header-upper .search-panel .form-container{
-	padding:25px 20px;	
+	padding:25px 20px;
 }
 
 .main-header .header-upper .search-panel .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .main-header .header-upper .search-panel input[type="text"],
@@ -750,7 +750,7 @@ img{
 	color:#000000;
 	font-size:14px;
 	line-height:24px;
-	background:#ffffff;	
+	background:#ffffff;
 	border:1px solid #e0e0e0;
 	padding:7px 40px 7px 15px;
 	-webkit-transition:all 300ms ease;
@@ -762,7 +762,7 @@ img{
 
 .main-header .header-upper .search-panel input:focus,
 .main-header .header-upper .search-panel select:focus{
-	border-color:#d5aa6d;	
+	border-color:#d5aa6d;
 }
 
 .main-header .header-upper .search-panel .search-btn{
@@ -879,12 +879,12 @@ img{
 }
 
 .main-header .header-lower .search-panel .form-container{
-	padding:25px 20px;	
+	padding:25px 20px;
 }
 
 .main-header .header-lower .search-panel .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .main-header .header-lower .search-panel input[type="text"],
@@ -897,7 +897,7 @@ img{
 	color:#000000;
 	font-size:14px;
 	line-height:24px;
-	background:#ffffff;	
+	background:#ffffff;
 	border:1px solid #e0e0e0;
 	padding:7px 40px 7px 15px;
 	-webkit-transition:all 300ms ease;
@@ -909,7 +909,7 @@ img{
 
 .main-header .header-lower .search-panel input:focus,
 .main-header .header-lower .search-panel select:focus{
-	border-color:#509cf9;	
+	border-color:#509cf9;
 }
 
 .main-header .header-lower .search-panel .search-btn{
@@ -943,7 +943,7 @@ img{
 	top:100%;
 	right:0px;
 	left:auto;
-	width:170px;	
+	width:170px;
 	border:none;
 	padding:0px;
 	margin-top:16px;
@@ -982,7 +982,7 @@ img{
 }
 
 .main-header .header-lower .language .dropdown-menu > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-header .header-lower .language .dropdown-menu > li > a{
@@ -1012,7 +1012,7 @@ img{
 	left:0px;
 	top:0px;
 	width:100%;
-	padding:0px 0px;
+    bottom: 564px;
 	background:#222222;
 	z-index:0;
 	transition:all 500ms ease;
@@ -1023,7 +1023,7 @@ img{
 }
 
 .sticky-header .logo{
-	padding:4px 0px 4px;
+	padding:0px 0px 4px;
 }
 
 .fixed-header .sticky-header{
@@ -1049,11 +1049,11 @@ img{
 	-moz-animation-iteration-count: 1;
 	-op-animation-iteration-count: 1;
 	-webkit-animation-iteration-count: 1;
-	animation-iteration-count: 1;	
+	animation-iteration-count: 1;
 }
 
 .sticky-header .main-menu .navigation > li > a{
-	padding:19px 0px  !important;
+	padding:29px 0px  !important;
 	color:#ffffff !important;
 }
 
@@ -1087,6 +1087,7 @@ img{
 	position: absolute;
 	left:80px;
 	z-index:1;
+    bottom: -22px;
 	padding: 0px 0px 0px;
 	transition: all 500ms ease;
     -moz-transition: all 500ms ease;
@@ -1273,7 +1274,7 @@ img{
 
 .main-menu .navigation > li > ul.from-right{
 	left:auto;
-	right:0px;	
+	right:0px;
 }
 
 .main-menu .navigation > li > ul > li{
@@ -1322,7 +1323,7 @@ img{
 	font-size:16px;
 	font-weight:normal;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
 }
 
 .main-menu .navigation > li > ul > li.dropdown:hover > a:after{
@@ -1354,7 +1355,7 @@ img{
 
 .main-menu .navigation > li > ul > li > ul.from-right{
 	left:auto;
-	right:0px;	
+	right:0px;
 }
 
 .main-menu .navigation > li > ul > li > ul > li{
@@ -1364,7 +1365,7 @@ img{
 }
 
 .main-menu .navigation > li > ul > li > ul > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a{
@@ -1403,11 +1404,11 @@ img{
 	font-size:16px;
 	font-weight:normal;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
 }
 
 .main-menu .navigation > li > ul > li > ul > li.dropdown:hover > a:after{
-	color:#ffffff;	
+	color:#ffffff;
 }
 
 .main-menu .navigation > li.dropdown:hover > ul{
@@ -1434,7 +1435,7 @@ img{
 	-moz-transition:all 300ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 300ms ease;
-	-o-transition:all 300ms ease;	
+	-o-transition:all 300ms ease;
 }
 
 .main-menu .navbar-collapse > ul li.dropdown .dropdown-btn{
@@ -1504,7 +1505,7 @@ img{
 	bottom:15px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Hidden Sidebar style
@@ -1532,7 +1533,7 @@ img{
 }
 
 .hidden-bar .mCSB_inside > .mCSB_container{
-	margin-right:0px;	
+	margin-right:0px;
 }
 
 .hidden-bar.right-align {
@@ -1540,7 +1541,7 @@ img{
 }
 
 .hidden-bar.right-align.visible-sidebar{
-	right:0px;	
+	right:0px;
 }
 
 .hidden-bar .hidden-bar-closer {
@@ -1683,7 +1684,7 @@ img{
 	-moz-transition:all 0.5s ease;
 	-webkit-transition:all 0.5s ease;
 	-ms-transition:all 0.5s ease;
-	-o-transition:all 0.5s ease;	
+	-o-transition:all 0.5s ease;
 }
 
 .background-visible .form-back-drop{
@@ -1692,7 +1693,7 @@ img{
 }
 
 
-/*** 
+/***
 
 ====================================================================
 	10. Banner Section
@@ -1773,7 +1774,7 @@ img{
 	opacity: 1;
 }
 
-.banner-section .owl-prev, 
+.banner-section .owl-prev,
 .banner-section .owl-next{
 	position: absolute;
 	top: 0;
@@ -1799,13 +1800,13 @@ img{
 	right: 30px;
 }
 
-.banner-section .owl-prev:hover, 
+.banner-section .owl-prev:hover,
 .banner-section .owl-next:hover{
 	background-color: #d5aa6d;
 	color: #ffffff;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Servuces Section
@@ -1988,7 +1989,7 @@ img{
 	background-color:#252120;
 }
 
-/*** 
+/***
 
 ====================================================================
 	About Section
@@ -2177,7 +2178,7 @@ img{
 	color:#000000;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Servuces Section Two
@@ -2200,7 +2201,7 @@ img{
 	top:0px;
 	right:0px;
 	bottom:0px;
-	background-color:rgba(156,156,156,0.62);
+	background-color:rgba(0, 0, 0, 0.62);
 }
 
 .services-section-two .row{
@@ -2300,7 +2301,7 @@ img{
 	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #87E067), color-stop(100, #1bda99));
 	background-image: -webkit-linear-gradient(top, #87E067 0%, #1bda99 100%);
 	background-image: linear-gradient(to bottom, #007bff 0%, #ffc107 100%);
-	
+
 }
 
 .services-block-two .inner-box .overlay-box:before{
@@ -2516,7 +2517,7 @@ img{
 	border-color:#bf9a65;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Counter Section
@@ -2694,7 +2695,7 @@ img{
 	font-size:18px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Team Section
@@ -2884,7 +2885,7 @@ img{
 	color:#ffffff;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Portfolio Section
@@ -3060,7 +3061,7 @@ img{
 	transition-delay: 500ms;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Form Section
@@ -3166,7 +3167,7 @@ img{
 	color:#999999;
 }
 
-/*** 
+/***
 
 ====================================================================
 	News Section
@@ -3353,7 +3354,7 @@ img{
 	color:#d5aa6d;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Subscribe Section
@@ -3441,10 +3442,10 @@ img{
 
 .subscribe-form input[type="submit"]:hover,
 .subscribe-form button:hover{
-	
+
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Footer
@@ -3564,7 +3565,7 @@ img{
 }
 
 .main-footer .gallery-widget .image-box img:hover{
-	opacity:0.70;	
+	opacity:0.70;
 }
 
 .main-footer .footer-bottom{
@@ -3622,7 +3623,7 @@ img{
 	color:#d5aa6d;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Banner Section Two
@@ -3768,14 +3769,14 @@ img{
     transition: all 300ms ease;
 }
 
-.banner-section-two .owl-prev:hover, 
+.banner-section-two .owl-prev:hover,
 .banner-section-two .owl-next:hover{
 	background-color: #ffffff;
 	border-color:#ffffff;
 	color: #d3a86c;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Feature Section
@@ -3951,7 +3952,7 @@ img{
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
 	box-shadow:0px 0px 15px rgba(0,0,0,0.15);
-	
+
 	background-image: -ms-linear-gradient(left, #D5AA6D 0%, #9e7247 100%);
 	background-image: -moz-linear-gradient(left, #D5AA6D 0%, #9e7247 100%);
 	background-image: -o-linear-gradient(left, #D5AA6D 0%, #9e7247 100%);
@@ -4020,7 +4021,7 @@ img{
     100% {box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);}
 }
 
-/*** 
+/***
 
 ====================================================================
 	Feature Section Two
@@ -4131,7 +4132,7 @@ img{
 	opacity:1;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Services Section Three
@@ -4377,7 +4378,7 @@ img{
 	font-family: 'Playfair Display', serif;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Testimonial Section
@@ -4482,7 +4483,7 @@ img{
 	background-color:#c69b63;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Contact Page Section
@@ -4556,7 +4557,7 @@ img{
 .contact-form input.error,
 .contact-form select.error,
 .contact-form textarea.error{
-	border-color:#ff0000 !important;	
+	border-color:#ff0000 !important;
 }
 
 .contact-form label.error{
@@ -4567,10 +4568,10 @@ img{
 	text-transform:none;;
 	font-size:11px;
 	color:#ff0000;
-	font-weight:500;	
+	font-weight:500;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Page Title
@@ -4660,7 +4661,7 @@ img{
 	color:#d5aa6d;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Testimonial Page Section
@@ -4813,7 +4814,7 @@ img{
 	line-height:1.4em;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Services Section Four
@@ -4826,7 +4827,7 @@ img{
 	padding-top:110px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Pricing Section
@@ -4839,7 +4840,7 @@ img{
 	padding-top:70px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Pricing Tabs Style
@@ -5046,7 +5047,7 @@ img{
 	text-align:center;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sidebar Page Container
@@ -5189,11 +5190,11 @@ img{
 
 .brochures-widget .files li{
 	position:relative;
-	margin-bottom:10px;	
+	margin-bottom:10px;
 }
 
 .brochures-widget .files li:last-child{
-	margin-bottom:0;	
+	margin-bottom:0;
 }
 
 .brochures-widget .files li a{
@@ -5319,7 +5320,7 @@ img{
 	border:2px solid #d4a96c;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Service Tabs Style
@@ -5408,7 +5409,7 @@ img{
 }
 
 .services-single .service-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .services-single .service-tabs .tabs-content .tab .content{
@@ -5451,7 +5452,7 @@ img{
 	color:#191514;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Contact Page Section
@@ -5526,7 +5527,7 @@ img{
 .contact-form input.error,
 .contact-form select.error,
 .contact-form textarea.error{
-	border-color:#ff0000 !important;	
+	border-color:#ff0000 !important;
 }
 
 .contact-form label.error{
@@ -5537,7 +5538,7 @@ img{
 	text-transform:none;;
 	font-size:11px;
 	color:#ff0000;
-	font-weight:500;	
+	font-weight:500;
 }
 
 /*Contact Form*/
@@ -5695,7 +5696,7 @@ img{
 }
 
 .ui-menu .ui-menu-item:last-child{
-	border:none;	
+	border:none;
 }
 
 .ui-state-active, .ui-widget-content .ui-state-active{
@@ -5714,7 +5715,7 @@ img{
 .ui-menu-item:hover{
 }
 
-/*** 
+/***
 
 ====================================================================
 	Portfolio Section Two
@@ -6027,7 +6028,7 @@ img{
 	-o-transition:all 500ms ease;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Portfolio Single Section
@@ -6129,7 +6130,7 @@ img{
 	margin-top:40px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Blog Page Section
@@ -6429,7 +6430,7 @@ img{
 	color:#bf935e;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comments Area
@@ -6496,7 +6497,7 @@ img{
 }
 
 .sidebar-page-container .comments-area .comment-box:hover{
-	border-color:#222222;	
+	border-color:#222222;
 }
 
 .sidebar-page-container .comments-area .comment{
@@ -6552,7 +6553,7 @@ img{
 .sidebar-page-container .comments-area .comment-info{
 	color:#3e5773;
 	line-height:24px;
-	font-size:13px;	
+	font-size:13px;
 }
 
 .sidebar-page-container .comments-area .comment-box strong{
@@ -6590,7 +6591,7 @@ img{
 	font-family: 'Poppins', sans-serif;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comment Form
@@ -6674,7 +6675,7 @@ img{
 
 .sidebar .search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .sidebar .search-box .form-group input[type="text"],
@@ -6971,7 +6972,7 @@ img{
 
 .sidebar .popular-tags a:hover{
 	background-color:#d5aa6d;
-	color:#ffffff;	
+	color:#ffffff;
 }
 .logo-box {
     max-width: 15%;

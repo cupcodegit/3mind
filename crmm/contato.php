@@ -1,5 +1,5 @@
-<?php $title = 'CRMM'; include("header.php"); ?>
-	
+<?php $title = 'CRMM - Contato'; include("header.php"); ?>
+
 	<!--Page Title-->
     <section class="page-title" style="background-image:url(img/imagem7.jpg)">
     	<div class="container">
@@ -13,8 +13,8 @@
         </div>
     </section>
     <!--End Page Title-->
-	
-	
+
+
 	<!-- Contact Page Section -->
 	<section class="contact-form-section">
 		<div class="map-section">
@@ -35,11 +35,11 @@
 		</div>
 		<div class="container">
 			<div class="inner-container">
-				
+
 				<!-- Upper Content -->
 				<div class="upper-content">
 					<div class="row clearfix">
-						
+
 						<!-- Title Column -->
 						<div class="title-column col-lg-5 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -50,7 +50,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<!-- Info Column -->
 						<div class="info-column col-lg-7 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -58,24 +58,24 @@
 									<!-- Column -->
 									<div class="column col-lg-6 col-md-6 col-sm-12">
 										<ul class="list-style-two style-two">
-											<li><span class="icon flaticon-placeholder-1"></span>Av. Ulysses Guimarães, 3302 Edf. CAB Empresarial, salas 301, 302, 311 e 312 Sussuarana, Centro Administrativo da Bahia 41.213-000 - Salvador - Bahia - Brasil</li>
+											<li><span class="icon flaticon-placeholder-1"></span> Av. Ulysses Guimarães, 3302<br>Edifício CAB Empresarial, salas 301, 302, 311 e 312<br>Sussuarana (CAB)<br>41.213-000 – Salvador – Bahia </li>
 										</ul>
 									</div>
 									<!-- Column -->
 									<div class="column col-lg-6 col-md-6 col-sm-12">
 										<ul class="list-style-two style-two">
 											<a href="tel:+557134440600"><li><span class="icon flaticon-phone-call"></span>+55 (71) 3444-0600</li></a>
-											<a href="whatsapp://send?text=Olá!&phone=+5571981270489"><li><span class="icon fa fa-whatsapp maior28"></span>+55 (71) 98127-0489 </li></a>
+											<a href="https://api.whatsapp.com/send?phone=5571981270489"  target="_blank"><li><span class="icon fa fa-whatsapp maior28"></span>+55 (71) 98127-0489 </li></a>
 											<a href="mailto:secretaria@crmm.com.br"><li><span class="icon flaticon-chat"></span>secretaria@crmm.com.br</li></a>
 										</ul>
 									</div>
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
-				
+
 				<!-- Default Form -->
 				<div class="default-form style-two">
 					<form method="post" action="Notícias.html">
@@ -83,32 +83,32 @@
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="firstname" value="" placeholder="Nome" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="email" value="" placeholder="Telefone (DDD)" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-12 col-sm-12">
 								<input type="text" name="phone" value="" placeholder="E-mail" required>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<textarea name="message" placeholder="Mensagem"></textarea>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<button type="submit" class="theme-btn btn-style-one">Enviar</button>
-							</div>                                        
+							</div>
 						</div>
 					</form>
 				</div>
 				<!--End Default Form-->
-				
+
 			</div>
 		</div>
 	</section>
 	<!-- End Team Page Section -->
-	
+
 	<!-- Contact Info Section -->
 	<section class="contact-info-section" style="background-image:url(img/predio-enorme.jpg)">
 		<div class="container">
@@ -117,13 +117,13 @@
 				</div>
 				<div class="column col-lg-4 col-md-6 col-sm-12">
 					<ul class="list-style-seven">
-						<li><span class="icon flaticon-map-1"></span> Av. Ulysses Guimarães, 3302 Edf. CAB Empresarial, salas 301, 302, 311 e 312 Sussuarana, Centro Administrativo da Bahia 41.213-000 - Salvador - Bahia - Brasil -</li>
+						<li><span class="icon flaticon-map-1"></span> Av. Ulysses Guimarães, 3302<br>Edifício CAB Empresarial, salas 301, 302, 311 e 312<br>Sussuarana (CAB)<br>41.213-000 – Salvador – Bahia </li>
 					</ul>
 				</div>
 				<div class="column col-lg-4 col-md-6 col-sm-12">
 					<ul class="list-style-seven">
 						<a href="tel:+557134440600"><li><span class="icon flaticon-call-answer"></span>+55 (71) 3444-0600</li></a>
-						<a href="whatsapp://send?text=Olá!&phone=+5571981270489"><li><span class="icon fa fa-whatsapp m-maior"></span>+55 (71) 98127-0489</li></a>
+						<a href="https://api.whatsapp.com/send?phone=5571981270489"  target="_blank"><li><span class="icon fa fa-whatsapp m-maior"></span>+55 (71) 98127-0489</li></a>
 						<a href="mailto:secretaria@crmm.com.br"><li><span class="icon fa fa-envelope-o"></span>secretaria@crmm.com.br</li></a>
 					</ul>
 				</div>
@@ -131,9 +131,9 @@
 		</div>
 	</section>
 	<!-- End Contact Info Section -->
-	
+
 <?php include 'footer.php'; ?>
-	
+
 </div>
 <!--End pagewrapper-->
 

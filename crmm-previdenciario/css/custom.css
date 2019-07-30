@@ -5,7 +5,6 @@ body {
 	font-size: 16px;
 	line-height: 30px;
 	font-weight: 300;
-	color: #848d95;
 	}
 	/* Custom Fonts */
 	h1,
@@ -105,6 +104,13 @@ body {
 			font-size: 14px;
 			line-height: 24px;
 	}
+	h2.edt-pb {
+		padding-left: 90px;
+		padding-bottom: 30px;
+	}
+    .f-18 {
+        font-size: 20px;
+    }
 	.diagram_item .chart,
 	.item_title a,
 	.contentarea ul,
@@ -414,11 +420,6 @@ body {
 					background-color: rgba(39, 50, 61, 1) !important;
 					color: !important;
 			}
-			.toggle-inner,
-			.toggle-inner:before,
-			.toggle-inner:after {
-					background-color: ;
-			}
 	}
 	.toggle-inner,
 	.toggle-inner:before,
@@ -426,9 +427,7 @@ body {
 			background-color: #ffffff;
 	}
 .gt3-footer {
-	padding-top: 55;
 	padding-right: 0;
-	padding-bottom: 20;
 	padding-left: 0;
 }
 .color-white {
@@ -2313,7 +2312,7 @@ a.custom-43 {
 	border-radius: 3px;
 }
 .custom-44 {
-	min-height: 275px; 
+	max-height: 250px; 
 	background-color: #daa521; 
 	font-size: 16px; 
 	line-height: 30px;
@@ -2454,17 +2453,53 @@ a.custom-49 {
 	font-size: 16px; 
 	line-height: 187%;
 }
-.custom-62 {
+.custom-001 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg1.jpg');
+	background-image: url('../img/areas/tributario.png');
 }
-.custom-63 {
+.custom-002 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg2.jpg');
+	background-image: url('../img/areas/empresarial.png');
 }
-.custom-64 {
+.custom-003 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg3.jpg');
+	background-image: url('../img/areas/trabalhista.png');
+}
+.custom-004 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/administrativo.png');
+}
+.custom-005 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-006 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-007 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/sucessoes.png');
+}
+.custom-008 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/sucessoes.png');
+}
+.custom-009 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/penal.empresarial.jpg');
+}
+.custom-010 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-011 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/publico.jpg');
+}
+.custom-012 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/empresarial.jpg');
 }
 .custom-65 {
 	background-color:rgba(255,255,255,0.25);
@@ -2722,7 +2757,6 @@ a.custom-67 {
 	font-size: 18px; 
 	line-height: 30px; 
 	font-weight: 300; 
-	color: rgba(255,255,255,1);
 	font-family:Roboto;
 }
 .slid-03-style-06 {
@@ -2776,7 +2810,6 @@ a.custom-67 {
 	font-size: 18px; 
 	line-height: 30px; 
 	font-weight: 300; 
-	color: rgba(255,255,255,1);
 	font-family:Roboto;
 }
 .slid-03-style-10 {
@@ -2838,7 +2871,6 @@ a.custom-67 {
 	color:#909aa3;
 }
 .custom-color-06 {
-	color:#909aa3;
 	font-size: 16px; 
 	line-height: 22.4px;
 }

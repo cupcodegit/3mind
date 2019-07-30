@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>crmm adv</title>
+<title><?php if (isset($title)) {echo $title;}
+else {echo "CRMM Advocacia";} ?></title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="myProjects/webProject/icofont/css/icofont.min.css">
 <script src="https://kit.fontawesome.com/9102b3461d.js"></script>
@@ -30,7 +31,7 @@
 	<div class="clearfix">
 	<!-- Logo Box -->
 	<div class="pull-left logo-box">
-	<div class="logo"><a href="index.php"><img src="images/logo-branco.png" alt="" title=""></a></div>
+	<div class="logo"><a href="index.php"><img src="images/crmm-light.png" alt="" title=""></a></div>
 	</div>
 	<div class="nav-outer clearfix">
 	<!-- Main Menu -->
@@ -43,22 +44,22 @@
 	<li class="dropdown"><a href="index.php">Home</a>
 	</li>
 	<li class="dropdown"><a href="sobre.php">Sobre nós</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="areas.php">Áreas de atuação</a>
-	
+
 	</li>
-	<li class="dropdown"><a href="noticias.php">Notícias</a>
-	
+	<li class="dropdown"><a href="https://nrdc.dominiotemporario.com/noticias/">Notícias</a>
+
 	</li>
 	<li class="dropdown"><a href="contato.php">Contato</a>
-	
+
 	</li>
 	<li class="dropdown"><a href="tel:+557134440600"><i class="icon fa fa-phone"></i></a>
-	
+
 	</li>
-	<li class="dropdown"><a href="whatsapp://send?text=Olá!&phone=+5571981270489"><i class="icon fa fa-whatsapp"></i></a>
-	
+	<li class="dropdown"><a href="https://api.whatsapp.com/send?phone=5571981270489"  target="_blank"><i class="icon fa fa-whatsapp"></i></a>
+
 	</li>
 	<!--li><a href="contact.html">Contact us</a></li-->
 	</ul>
@@ -66,7 +67,7 @@
 	</nav>
 
 	<div class="outer-box">
-	
+
 	<!--Nav Toggler-->
 	<div class="nav-toggler">
 	<div class="nav-btn hidden-bar-opener"><span class="flaticon-menu"></span>
@@ -82,7 +83,7 @@
 	<div class="container clearfix">
 	<!--Logo-->
 	<div class="logo pull-left">
-	<a href="index.php" class="img-responsive"><img src="images/logo-branco.png" alt="" title=""></a>
+	<a href="index.php" class="img-responsive"><img src="images/crmm-light.png" alt="" title=""></a>
 	</div>
 	<!--Right Col-->
 	<div class="right-col pull-right">
@@ -102,11 +103,11 @@
 	</li>
 	<li class="dropdown"><a href="areas.php">Áreas de atuação</a>
 	</li>
-	<li class="dropdown"><a href="noticias.php">Notícias</a>
+	<li class="dropdown"><a href="https://nrdc.dominiotemporario.com/noticias/">Notícias</a>
 	</li>
 	<li><a href="contato.php">Contato</a></li>
 	<li><a href="tel:+557134440600"><i class="icon fa fa-phone"></i></a></li>
-	<li><a href="whatsapp://send?text=Olá!&phone=+5571981270489"><i class="icon fa fa-whatsapp"></i></a></li>
+	<li><a href="https://api.whatsapp.com/send?phone=5571981270489"  target="_blank"><i class="icon fa fa-whatsapp"></i></a></li>
 	</ul>
 	</div>
 	</nav><!-- Main Menu End-->
@@ -116,10 +117,10 @@
 	<!--End Sticky Header-->
 	</header>
     <!--End Main Header -->
-	
+
 	<!--Form Back Drop-->
     <div class="form-back-drop"></div>
-	
+
 	<!-- Hidden Navigation Bar -->
 	<section class="hidden-bar right-align">
 		<div class="hidden-bar-closer">
@@ -129,13 +130,13 @@
 		<div class="hidden-bar-wrapper">
 		<div class="inner-box">
 		<div class="logo">
-		<a href="index.php"><img src="images/logo.png" alt="" /></a>
+		<a href="index.php"><img src="images/crmm-dark.png" alt="" /></a>
 		</div>
 		<br><br>
 		<!-- List Style Four -->
 		<ul class="list-style-four">
 		<a href="tel:+557134440600"><li><span class="icon flaticon-phone-call"></span> <strong>Telefone:</strong> +55 (71) 3444-0600</li></a>
-		<a href="whatsapp://send?text=Olá!&phone=+5571981270489"><li><span class="icon fa fa-whatsapp  m-maior40"></span> <strong>Whatsapp:</strong> +55 (71) 98127-0489</li></a>
+		<a href="https://api.whatsapp.com/send?phone=5571981270489"><li><span class="icon fa fa-whatsapp  m-maior40"></span> <strong>Whatsapp:</strong> +55 (71) 98127-0489</li></a>
 		<a href="mailto:secretaria@crmm.com.br"><li><span class="icon flaticon-talk"></span><strong>E-mail:</strong>secretaria@crmm.com.br</li></a>
 		</ul>
 		<div class="lower-box">
@@ -143,6 +144,7 @@
 		<ul class="social-icons">
 		<li class="facebook"><a href="https://www.facebook.com/crmmadvogados" target="_blank"><span class="fa fa-facebook"></span></a></li>
 		<li class="instagram"><a href="https://www.instagram.com/crmmadvogados/" target="_blank"><span class="fa fa-instagram"></span></a></li>
+		<li class="linkedin"><a href="https://www.linkedin.com/in/marcus-vinicius-caminha/" target="_blank"><span class="fa fa-linkedin-in"></span></a></li>
 		</ul>
 		</div>
 		</div>

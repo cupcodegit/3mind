@@ -40,6 +40,9 @@ padding: 15px;
 white-space: pre-wrap;
 word-wrap: break-word;
 }
+* {
+    text-align: justify;
+}
 
 form,
 fieldset{
@@ -447,7 +450,13 @@ p:empty {
 display:none;
 margin: 0;
 }
-
+p.texto-box1 {
+    line-height: initial;
+    padding-top: 30px;
+}
+.bg-azul.box-model.in_col-lg-12.gt3_process_bar__count-container2 {
+    padding-top: 16px;
+}
 /* P L U G I N S */
 /**** Isotope Filtering ****/
 .isotope-item {
@@ -484,6 +493,96 @@ transition-property:transform,opacity;
 -moz-transition-duration:0;
 transition-duration:0;
 }
+.gt3_process_bar__count-container:before {
+left: 16px !important;
+}
+.gt3_process_bar__count-container.rig:before {
+right: -35px !important;
+}
+.gt3_process_bar__count-container1:before {
+left: 16px !important;
+}
+.gt3_process_bar__count-container1.rig:before {
+right: -35px !important;
+}
+.gt3_process_bar__count-container1:before {
+right: -16px !important;
+}
+.gt3_process_bar__count-container2:before {
+right: -55px !important;
+}
+.gt3_process_bar__count-container2:before {
+left: 258px !important;
+}
+.gt3_process_bar__count-container2:before{
+right: -55px !important;
+}
+.gt3_process_bar__count-container2:before {
+left: 253px !important;
+}
+.gt3_process_bar__count-container1:before {
+content: '';
+position: absolute;
+top: 20%;
+left: 0;
+right: 0;
+height: 1px;
+background-color: #dddddd;
+}
+.gt3_process_bar__count-container2:before {
+    content: '';
+    position: absolute;
+    top: 80%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    z-index: -10;
+    background-color: #dddddd;
+}
+/* inicio do diagrama */
+.box-model {
+width: 260px;
+border: 10px solid gray;
+margin: 0;
+border-radius: 30px;
+}
+.box-model1{
+width:100%;
+margin:0;
+}
+.box-model:hover {
+    /* width: 262px; */
+    /* height: 100px; */
+    border: 10px solid #565656;
+    border-radius: 30px;
+    /* padding: 20px; */
+    vertical-align: middle;
+    justify-content: center;
+    transition: .4s;
+    box-shadow: 3px 3px 10px 1px #25252587;
+}
+.texto-branco {
+color: #ffffff;
+
+}
+.mag {
+margin-bottom: 10px;
+-webkit-mask-position-y: top;
+bottom: 50px;
+}
+.magtop {
+-webkit-mask-position-y: top;
+top: -45px;
+}
+.bg-azul {
+    background-color: #daa521;
+    height: 120px;
+    padding-top: 20px;
+    line-height: 1;
+    transition: 0.4s;
+    font-size: 15px;
+}
+/* fim do diagrama */
 
 /* End: Recommended Isotope styles */
 /* disable CSS transitions for containers with infinite scrolling*/
@@ -1056,6 +1155,9 @@ background-position: -27px 0;
 .slick-next:hover {
 opacity:0.8;
 }
+.imgtransparencia {
+	width:72px;
+}
 
 
 /* C O N T E N T   A R E A */
@@ -1287,6 +1389,7 @@ list-style:none;
 }
 .main_footer ul li:last-child{
 padding-bottom: 0;
+font-family: 'FontAwesome';
 }
 .main_footer ul li li{
 padding-left: 10px;
@@ -2218,6 +2321,7 @@ margin-bottom: 30px !important;
 .gt3_module_featured_posts .slick-list .slick-slide {
 padding-left: 0;
 padding-right: 0;
+width: 1200px !important;
 }
 
 .hidden_block,
@@ -3239,6 +3343,9 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
+}
+img.alignnone.size-full {
+    padding-top: 43px;
 }
 .gt3-contact-widget_label.empty-title {
 width: 54px;

@@ -116,9 +116,9 @@
 						"weight": 1.2
 				}]
 		}];
-		var myLatlng = new google.maps.LatLng(40.6751125, -73.8182683);
+		var myLatlng = new google.maps.LatLng(-12.9406877, -38.4307902);
 		var mapOptions = {
-				zoom: 14,
+				zoom: 18,
 				scrollwheel: false,
 				center: myLatlng,
 				mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -128,8 +128,8 @@
 		var marker = new google.maps.Marker({
 				position: myLatlng,
 				map: map,
-				title: 'South Ozone Park!',
-				icon: 'img/wizelaw.png'
+				title: 'CRMM Advocacia',
+				icon: 'img/crmm-map.png'
 		});
 	}
 	google.maps.event.addDomListener(window, 'load', initialize);

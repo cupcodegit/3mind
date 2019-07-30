@@ -6,11 +6,12 @@
 	}
 }
 
-@media only screen and (max-width: 1340px){
+@media only screen and (max-width: 1366px){
 
 	.page-wrapper{
 		overflow:hidden;	
 	}
+	
 	
 }
 
@@ -83,6 +84,7 @@
 	.main-header .header-upper .logo-box{
 		position:relative;
 		left:0px;
+		bottom:5px;
 	}
 	
 	.banner-section .slide{
@@ -142,7 +144,7 @@
 	}
 }
 
-@media only screen and (max-width: 1023px){
+@media only screen and (max-width: 1024px){
 	
 	.main-header .main-box .logo-box {
 		position:relative;
@@ -152,6 +154,14 @@
 		bottom:0px;
 		margin:0px;
 		text-align:left;
+	}
+	.main-header .header-upper .logo-box .logo {
+    position: relative;
+    top: 0px;
+	}
+	.main-menu .navbar-collapse {
+    padding-right: 20px;
+    float: left;
 	}
 	
 	.feature-section-two .inner-container{
@@ -302,6 +312,15 @@
 		width:100%;
 		margin:0px;
 	}
+	.logo-box {
+    max-width: 150px;
+    padding-top: 6px !important;
+	}
+	.main-header .header-upper {
+    position: relative;
+    z-index: 1;
+    top: 45px;
+	}
 	
 	.sec-title h2,
 	.page-title h1,
@@ -350,7 +369,6 @@
 		display:block;
 		text-align:right;
 		width:100%;
-		padding:15px 0px;
 		right:0px;
 		z-index:12;
 	}
@@ -601,8 +619,12 @@
 	}
 	
 	.main-header .header-upper .logo-box{
-		padding:0px 0px 0px;
-		z-index:20;
+		padding: 0px 0px 0px;
+		width: 80px;
+		z-index: 20;
+		float: left;
+		position: relative;
+		top: -25px;
 	}
 	
 	.main-header .header-upper .option-box .nav-btn{
@@ -641,9 +663,10 @@
 	}
 	
 	.main-header{
-		position:relative;
-		margin-top:0px;
-		background-color:#222222;
+	position: relative;
+    margin-top: 0px;
+    background-color: #222222;
+    height: 80px;
 	}
 	
 	.banner-section .slide{
@@ -789,6 +812,10 @@
 	
 	.main-header .search-box-outer .dropdown-menu{
 		top:44px;	
+	}
+	.main-header .header-upper .logo-box .logo {
+    position: relative;
+    top: -10px;
 	}
 	
 	.testimonial-block .inner-box .text,
