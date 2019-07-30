@@ -104,6 +104,10 @@ body {
 			font-size: 14px;
 			line-height: 24px;
 	}
+	h2.edt-pb {
+		padding-left: 90px;
+		padding-bottom: 30px;
+	}
     .f-18 {
         font-size: 20px;
     }
@@ -2308,7 +2312,7 @@ a.custom-43 {
 	border-radius: 3px;
 }
 .custom-44 {
-	min-height: 275px; 
+	max-height: 250px; 
 	background-color: #daa521; 
 	font-size: 16px; 
 	line-height: 30px;
@@ -2449,17 +2453,53 @@ a.custom-49 {
 	font-size: 16px; 
 	line-height: 187%;
 }
-.custom-62 {
+.custom-001 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg1.jpg');
+	background-image: url('../img/areas/tributario.png');
 }
-.custom-63 {
+.custom-002 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg2.jpg');
+	background-image: url('../img/areas/empresarial.png');
 }
-.custom-64 {
+.custom-003 {
 	background-color: #daa521; 
-	background-image: url('../img/services_bg3.jpg');
+	background-image: url('../img/areas/trabalhista.png');
+}
+.custom-004 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/administrativo.png');
+}
+.custom-005 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-006 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-007 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/sucessoes.png');
+}
+.custom-008 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/sucessoes.png');
+}
+.custom-009 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/penal.empresarial.jpg');
+}
+.custom-010 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/servidor-publico.png');
+}
+.custom-011 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/publico.jpg');
+}
+.custom-012 {
+	background-color: #daa521; 
+	background-image: url('../img/areas/empresarial.jpg');
 }
 .custom-65 {
 	background-color:rgba(255,255,255,0.25);

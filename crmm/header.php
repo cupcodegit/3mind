@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>crmm adv</title>
+<title><?php if (isset($title)) {echo $title;}
+else {echo "CRMM advocacia";} ?></title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="myProjects/webProject/icofont/css/icofont.min.css">
 <script src="https://kit.fontawesome.com/9102b3461d.js"></script>
