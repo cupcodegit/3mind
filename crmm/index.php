@@ -1,4 +1,4 @@
-	<?php $title = 'CRMM'; include("header.php"); ?>
+	<?php $title = 'CRMM - Home'; include("header.php"); ?>
 	<!--Banner Section-->
     <section class="banner-section">
 		<div class="main-slider-carousel owl-carousel owl-theme">
