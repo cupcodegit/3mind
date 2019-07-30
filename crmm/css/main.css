@@ -1012,7 +1012,7 @@ img{
 	left:0px;
 	top:0px;
 	width:100%;
-	padding:0px 0px;
+    bottom: 564px;
 	background:#222222;
 	z-index:0;
 	transition:all 500ms ease;
@@ -1023,7 +1023,7 @@ img{
 }
 
 .sticky-header .logo{
-	padding:4px 0px 4px;
+	padding:0px 0px 4px;
 }
 
 .fixed-header .sticky-header{
@@ -1053,7 +1053,7 @@ img{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-	padding:19px 0px  !important;
+	padding:29px 0px  !important;
 	color:#ffffff !important;
 }
 
@@ -1087,6 +1087,7 @@ img{
 	position: absolute;
 	left:80px;
 	z-index:1;
+    bottom: -22px;
 	padding: 0px 0px 0px;
 	transition: all 500ms ease;
     -moz-transition: all 500ms ease;
