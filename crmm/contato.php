@@ -1,5 +1,5 @@
-<?php $title = 'CRMM'; include("header.php"); ?>
-	
+<?php $title = 'CRMM - Contato'; include("header.php"); ?>
+
 	<!--Page Title-->
     <section class="page-title" style="background-image:url(img/imagem7.jpg)">
     	<div class="container">
@@ -13,8 +13,8 @@
         </div>
     </section>
     <!--End Page Title-->
-	
-	
+
+
 	<!-- Contact Page Section -->
 	<section class="contact-form-section">
 		<div class="map-section">
@@ -35,11 +35,11 @@
 		</div>
 		<div class="container">
 			<div class="inner-container">
-				
+
 				<!-- Upper Content -->
 				<div class="upper-content">
 					<div class="row clearfix">
-						
+
 						<!-- Title Column -->
 						<div class="title-column col-lg-5 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -50,7 +50,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<!-- Info Column -->
 						<div class="info-column col-lg-7 col-md-12 col-sm-12">
 							<div class="inner-column">
@@ -72,10 +72,10 @@
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
-				
+
 				<!-- Default Form -->
 				<div class="default-form style-two">
 					<form method="post" action="Notícias.html">
@@ -83,32 +83,32 @@
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="firstname" value="" placeholder="Nome" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-6 col-sm-12">
 								<input type="text" name="email" value="" placeholder="Telefone (DDD)" required>
 							</div>
-							
+
 							<div class="form-group col-lg-4 col-md-12 col-sm-12">
 								<input type="text" name="phone" value="" placeholder="E-mail" required>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<textarea name="message" placeholder="Mensagem"></textarea>
 							</div>
-							
+
 							<div class="form-group col-lg-12 col-md-12 col-sm-12">
 								<button type="submit" class="theme-btn btn-style-one">Enviar</button>
-							</div>                                        
+							</div>
 						</div>
 					</form>
 				</div>
 				<!--End Default Form-->
-				
+
 			</div>
 		</div>
 	</section>
 	<!-- End Team Page Section -->
-	
+
 	<!-- Contact Info Section -->
 	<section class="contact-info-section" style="background-image:url(img/predio-enorme.jpg)">
 		<div class="container">
@@ -131,9 +131,9 @@
 		</div>
 	</section>
 	<!-- End Contact Info Section -->
-	
+
 <?php include 'footer.php'; ?>
-	
+
 </div>
 <!--End pagewrapper-->
 
